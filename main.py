@@ -28,4 +28,4 @@ for k in range(20):
     for p in n.parameters():
         p.data -= 0.01 * p.grad
 
-    print(f"Epoch {k}: Loss = {loss.data}")
+    print(f"Epoch {k}: Loss = {loss.data}") 

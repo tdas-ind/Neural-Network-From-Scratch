@@ -90,4 +90,4 @@ class Value:
         build_topo(self)
 
         for node in reversed(topo):
-            node._backward()
+            node._backward() 

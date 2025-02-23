@@ -36,4 +36,4 @@ The project implements:
 
 5. **Debugging**:
    - How to debug gradient computation and parameter updates.
-   - The importance of checking intermediate values during training.
+   - The importance of checking intermediate values during training. 
